@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anggara-26
+<!-- - 👋 Hi, I’m @anggara-26
 - 👀 I’m interested in AI, Front-end and backend web, and much more :)
-- 🌱 I’m currently learning Front-end web development
+- 🌱 I’m currently learning Front-end web development -->
 
 <!---
 anggara-26/anggara-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
