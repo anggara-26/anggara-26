@@ -1,6 +1,6 @@
 
 
-## <img src="https://c.tenor.com/yCFHzEvKa9MAAAAi/hello.gif" width="40" /> Hi there!
+## Hi there! <img src="https://c.tenor.com/yCFHzEvKa9MAAAAi/hello.gif" width="40" />
 
 - 👨‍🎓 I'm a high school student at SMAN 10 Bekasi.
 - 💡 I'd really love math 🥰
