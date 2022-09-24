@@ -3,7 +3,7 @@
   <img src="https://c.tenor.com/yCFHzEvKa9MAAAAi/hello.gif" height="200" />
 </p>
 
-### Welcome to anggara-26 👩‍💻💻
+### Welcome to my github page 👩‍💻💻
 
 - 👨‍🎓 I'm a high school student at SMAN 10 Bekasi.
 - 🌐 Front-end Web Developer.
