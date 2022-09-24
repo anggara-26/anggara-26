@@ -5,7 +5,7 @@
 
 ### Welcome to anggara-26 👩‍💻💻
 
-- 👨‍🎓 I'm a high school student.
+- 👨‍🎓 I'm a high school student at SMAN 10 Bekasi.
 - 🌐 Front-end Web Developer.
 - 👩🏻‍ 💻 I’m currently working on ❤️React JS ❤️React Native ❤️Django ❤️Rest API!
 
