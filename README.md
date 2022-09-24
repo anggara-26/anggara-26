@@ -16,7 +16,7 @@
    
    <a href="https://github.com/anggara-26"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anggara-26&theme=dracula&hide_border=true"  width="520" alt="Anggara-26"/></a>
 
-     [![Top Langs]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggara-26&theme=dracula&layout=compact)](https://github.com/deepshikhayadav/github-readme-stats"/>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anggara-26&theme=tokyonight)](https://github.com/anggara-26/github-readme-stats)
  
   </div>
   
