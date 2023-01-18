@@ -12,11 +12,8 @@
    
    <a href="https://github.com/anggara-26"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anggara-26&theme=dracula&hide_border=true"  width="520" alt="Anggara-26"/></a>
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anggara-26&theme=tokyonight)](https://github.com/anggara-26/github-readme-stats)
  
   </div>
-  
-![Anggara's Graph](https://activity-graph.herokuapp.com/graph?username=anggara-26&area=true&hide_border=true&theme=dracula)
 
   
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:anggara.roshandi.putra5@gmail.com)
