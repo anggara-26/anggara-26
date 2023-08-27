@@ -20,8 +20,3 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Anggara0526)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/anggara-roshandi-3a8493273/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/anggara_roshand2?tab=topactivity)
-
-
-
-[![GitHub anggara-26](https://img.shields.io/github/followers/anggara-26?label=follow&style=social&logoColor=black)](https://github.com/anggara-26)
-![Profile views](https://gpvc.arturio.dev/anggara-26)
