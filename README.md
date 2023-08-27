@@ -2,7 +2,7 @@
 
 ## Hi there! <img src="https://c.tenor.com/yCFHzEvKa9MAAAAi/hello.gif" width="40" />
 
-- 👨‍🎓 I'm a high school student at SMAN 10 Bekasi.
+- 👨‍🎓 Informatics Engineering at Mercubuana University.
 - 💡 An enthusiastic and dreamer programmer
 - 🔬 I’m currently learn everything! 😋
 
