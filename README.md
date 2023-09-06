@@ -34,25 +34,25 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anggara-26&show_icons=true&theme=tokyonight&hide=prs"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=anggara-26&show_icons=true&theme=tokyonight&hide=prs"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anggara-26&show_icons=true&hide=prs"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=anggara-26&show_icons=true&hide=prs"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=anggara-26&show_icons=true&hide=prs" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anggara-26&show_icons=true&hide=prs" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anggara-26&layout=donut&theme=tokyonight"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anggara-26&layout=donut&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anggara-26&layout=donut"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anggara-26&layout=donut"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggara-26&layout=donut" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anggara-26&layout=donut" />
   </picture>
 </div>
 
