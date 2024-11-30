@@ -9,7 +9,7 @@
 <br />
 
 <div align="center" style="margin-bottom: 3rem;">
-  <a href="mailto:anggara.roshandi.putra5@gmail.com">
+  <a href="mailto:anggara0526@gmail.com">
     <img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://instagram.com/anggara0526">
