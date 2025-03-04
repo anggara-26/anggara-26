@@ -18,7 +18,7 @@
   <a href="https://twitter.com/Anggara0526">
     <img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/anggara-roshandi-3a8493273/">
+  <a href="https://www.linkedin.com/in/anggara-roshandi-putra-3a8493273/">
     <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin" />
   </a>
   <a href="https://www.hackerrank.com/anggara_roshand2?tab=topactivity">
