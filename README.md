@@ -26,36 +26,6 @@
   </a>
 </div>
 
-<h2>
-  <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25">
-  <b>Github Stats</b>
-</h2>
-
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=anggara-26&show_icons=true&theme=tokyonight&hide=prs"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=anggara-26&show_icons=true&hide=prs"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anggara-26&show_icons=true&hide=prs" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anggara-26&layout=donut&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anggara-26&layout=donut"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anggara-26&layout=donut" />
-  </picture>
-</div>
-
 <br />
 
 <div align="center">
